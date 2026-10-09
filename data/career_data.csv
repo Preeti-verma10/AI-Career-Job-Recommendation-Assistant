@@ -1,0 +1,21 @@
+career_role,education,skills,interests,experience_level,preferred_location
+Data Analyst,Degree/Diploma in IT or Computer Science,Python|SQL|Power BI|Excel|Statistics,Data|Analytics|Business,Entry Level,Any
+Business Analyst,Degree/Diploma in IT or Business,SQL|Excel|Power BI|Communication|Business Analysis,Business|Data|Management,Entry Level,Any
+Python Developer,Degree/Diploma in IT or Computer Science,Python|OOP|Git|SQL|APIs,Programming|Software|Technology,Entry Level,Any
+Software Developer,Degree/Diploma in Computer Science or IT,Python|Java|C++|OOP|Git,Programming|Software|Technology,Entry Level,Any
+Web Developer,Degree/Diploma in IT or Computer Science,HTML|CSS|JavaScript|Git|SQL,Web Development|Technology|Design,Entry Level,Any
+Frontend Developer,Degree/Diploma in IT or Computer Science,HTML|CSS|JavaScript|React|Git,Web Development|Design|Technology,Entry Level,Any
+Backend Developer,Degree/Diploma in IT or Computer Science,Python|Java|SQL|APIs|Git,Programming|Backend|Technology,Entry Level,Any
+Cybersecurity Analyst,Degree/Diploma in IT or Cybersecurity,Networking|Linux|Cybersecurity|Python|Security Tools,Cybersecurity|Networking|Technology,Entry Level,Any
+Database Administrator,Degree/Diploma in IT or Computer Science,SQL|MySQL|Database Management|Linux|Backup,Databases|Technology|Data,Entry Level,Any
+Data Scientist,Degree in Computer Science or Data Science,Python|SQL|Machine Learning|Statistics|Pandas,Data|AI|Machine Learning,Entry Level,Any
+Machine Learning Engineer,Degree in Computer Science or AI,Python|Machine Learning|Statistics|TensorFlow|SQL,AI|Machine Learning|Programming,Entry Level,Any
+AI Engineer,Degree in Computer Science or AI,Python|Machine Learning|Deep Learning|APIs|SQL,AI|Technology|Programming,Entry Level,Any
+Digital Marketing Specialist,Degree/Diploma in Marketing or IT,SEO|Google Ads|Meta Ads|Analytics|Content Marketing,Marketing|Social Media|Business,Entry Level,Any
+SEO Specialist,Degree/Diploma in Marketing or IT,SEO|Keyword Research|Google Analytics|Content|GBP,SEO|Marketing|Content,Entry Level,Any
+HR Recruiter,Degree/Diploma in HR or Business,Recruitment|Communication|Interviewing|Excel|Sourcing,Human Resources|Recruitment|People,Entry Level,Any
+UI UX Designer,Degree/Diploma in Design or IT,Figma|UI Design|UX Research|Wireframing|Prototyping,Design|Technology|Creativity,Entry Level,Any
+Network Administrator,Degree/Diploma in IT or Networking,Networking|Linux|TCP/IP|Troubleshooting|Security,Networking|Technology|Infrastructure,Entry Level,Any
+IT Support Specialist,Degree/Diploma in IT,Hardware|Networking|Troubleshooting|Windows|Communication,Technology|Support|Networking,Entry Level,Any
+QA Tester,Degree/Diploma in IT or Computer Science,Testing|Manual Testing|SQL|Bug Tracking|SDLC,Software|Testing|Technology,Entry Level,Any
+Cloud Support Associate,Degree/Diploma in IT or Computer Science,Cloud Computing|Linux|Networking|AWS|Troubleshooting,Cloud|Technology|Infrastructure,Entry Level,Any
